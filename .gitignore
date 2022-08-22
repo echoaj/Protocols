@@ -1,5 +1,6 @@
 # idea folder, uncomment if you don't need it
  .idea
+ idea
  # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
